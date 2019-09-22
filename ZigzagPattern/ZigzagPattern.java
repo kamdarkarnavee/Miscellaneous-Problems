@@ -1,4 +1,4 @@
-package miscellaneous_problems.ZigzagPattern;
+package ZigzagPattern;
 
 public class ZigzagPattern {
     public String zigzag(String s, int rows){

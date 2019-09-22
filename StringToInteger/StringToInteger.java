@@ -1,4 +1,4 @@
-package miscellaneous_problems.StringToInteger;
+package StringToInteger;
 
 public class StringToInteger {
     public int myAtoi(String s) {

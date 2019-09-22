@@ -1,4 +1,4 @@
-package miscellaneous_problems.Median;
+package Median;
 import java.util.Arrays;
 
 public class Median {

@@ -1,4 +1,4 @@
-package miscellaneous_problems.LongestNonRepeatingSubstring;
+package LongestNonRepeatingSubstring;
 
 public class LongestNonRepeatingSubstring {
     public int lengthOfLongestSubstring(String s) {
